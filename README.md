@@ -11,3 +11,8 @@ Make sure you have the Material Design swatches imported into your icon or defau
 
 ## How to Use:
 Play your coresponding action and follow the instructions on screen.
+
+Follow all warnings including:
+- Turn off align objects to pixel grid
+- Expand curved rectangales
+- Removed all inherited drop shadows
