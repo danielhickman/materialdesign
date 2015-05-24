@@ -15,6 +15,7 @@ Action Sets for Shade and Tints in Adobe Illustrator
 
 ## Instructions:
 - Turn off `Align New Objects to Pixel Grid`
+- Make sure no objects or groups have the opacity of 99% (Why'd you do that)
 - Expand any objects with a curved corner effect or appearence. (Doesn't include paths or rounded rectangles)
 - Select Object to tint or shade
 - Run the apporiate action for either tinting or shading, [For Shading:] for the color of the object (or object below for when shading below glyphs that don't touch the outside of the icon)
