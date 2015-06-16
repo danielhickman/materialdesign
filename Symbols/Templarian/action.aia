@@ -1,0 +1,53 @@
+/version 3
+/name [ 12
+	53796d626f6c204d616b6572
+]
+/isOpen 1
+/actionCount 1
+/action-1 {
+	/name [ 12
+		53796d626f6c204d616b6572
+	]
+	/keyIndex 2
+	/colorIndex 0
+	/isOpen 0
+	/eventCount 2
+	/event-1 {
+		/useRulersIn1stQuadrant 0
+		/internalName (ai_plugin_symbol_palette)
+		/localizedName [ 7
+			53796d626f6c73
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 1
+		/showDialog 1
+		/parameterCount 2
+		/parameter-1 {
+			/key 1835363957
+			/showInPalette -1
+			/type (enumerated)
+			/name [ 10
+				4e65772053796d626f6c
+			]
+			/value 2
+		}
+		/parameter-2 {
+			/key 1919250540
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+	}
+	/event-2 {
+		/useRulersIn1stQuadrant 0
+		/internalName (SelHat NextObjAbove Event)
+		/localizedName [ 24
+			53656c656374204e657874204f626a6563742041626f7665
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+}
