@@ -2,7 +2,7 @@
 /name [ 9
 	4772616469656e7473
 ]
-/isOpen 0
+/isOpen 1
 /actionCount 6
 /action-1 {
 	/name [ 6
@@ -10,8 +10,8 @@
 	]
 	/keyIndex 0
 	/colorIndex 0
-	/isOpen 0
-	/eventCount 3
+	/isOpen 1
+	/eventCount 2
 	/event-1 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_swatches)
@@ -33,142 +33,6 @@
 	}
 	/event-2 {
 		/useRulersIn1stQuadrant 0
-		/internalName (ai_plugin_setGradient)
-		/localizedName [ 12
-			536574204772616469656e74
-		]
-		/isOpen 0
-		/isOn 1
-		/hasDialog 0
-		/parameterCount 19
-		/parameter-1 {
-			/key 1752065132
-			/showInPalette -1
-			/type (boolean)
-			/value 1
-		}
-		/parameter-2 {
-			/key 1954115685
-			/showInPalette -1
-			/type (enumerated)
-			/name [ 6
-				52616469616c
-			]
-			/value 1
-		}
-		/parameter-3 {
-			/key 1634625388
-			/showInPalette -1
-			/type (unit real)
-			/value -45.0
-			/unit 591490663
-		}
-		/parameter-4 {
-			/key 1634955378
-			/showInPalette -1
-			/type (unit real)
-			/value 100.0
-			/unit 592474723
-		}
-		/parameter-5 {
-			/key 1937010544
-			/showInPalette -1
-			/type (integer)
-			/value 2
-		}
-		/parameter-6 {
-			/key 1835282480
-			/showInPalette -1
-			/type (real)
-			/value 33.0
-		}
-		/parameter-7 {
-			/key 1919954992
-			/showInPalette -1
-			/type (real)
-			/value 0.0
-		}
-		/parameter-8 {
-			/key 1868771376
-			/showInPalette -1
-			/type (real)
-			/value 0.1000000015
-		}
-		/parameter-9 {
-			/key 1953509424
-			/showInPalette -1
-			/type (enumerated)
-			/name [ 9
-				52474220636f6c6f72
-			]
-			/value 1
-		}
-		/parameter-10 {
-			/key 1919168560
-			/showInPalette -1
-			/type (real)
-			/value 1.0
-		}
-		/parameter-11 {
-			/key 1735274544
-			/showInPalette -1
-			/type (real)
-			/value 1.0
-		}
-		/parameter-12 {
-			/key 1651257392
-			/showInPalette -1
-			/type (real)
-			/value 1.0
-		}
-		/parameter-13 {
-			/key 1835282481
-			/showInPalette -1
-			/type (real)
-			/value 50.0
-		}
-		/parameter-14 {
-			/key 1919954993
-			/showInPalette -1
-			/type (real)
-			/value 100.0
-		}
-		/parameter-15 {
-			/key 1868771377
-			/showInPalette -1
-			/type (real)
-			/value 0.1000000015
-		}
-		/parameter-16 {
-			/key 1953509425
-			/showInPalette -1
-			/type (enumerated)
-			/name [ 9
-				52474220636f6c6f72
-			]
-			/value 1
-		}
-		/parameter-17 {
-			/key 1919168561
-			/showInPalette -1
-			/type (real)
-			/value 1.0
-		}
-		/parameter-18 {
-			/key 1735274545
-			/showInPalette -1
-			/type (real)
-			/value 1.0
-		}
-		/parameter-19 {
-			/key 1651257393
-			/showInPalette -1
-			/type (real)
-			/value 1.0
-		}
-	}
-	/event-3 {
-		/useRulersIn1stQuadrant 0
 		/internalName (adobe_stop)
 		/localizedName [ 4
 			53746f70
@@ -182,8 +46,9 @@
 			/key 1952807028
 			/showInPalette 1
 			/type (ustring)
-			/value [ 28
-				506c65617365204d6f76652074686520537461727420506f696e742e
+			/value [ 55
+				506c65617365204d6f76652074686520537461727420506f696e742c20746865
+				20616e676c652c20616e642074686520636972636c652e
 			]
 		}
 		/parameter-2 {
@@ -200,9 +65,114 @@
 	]
 	/keyIndex 0
 	/colorIndex 0
-	/isOpen 0
+	/isOpen 1
 	/eventCount 2
 	/event-1 {
+		/useRulersIn1stQuadrant 0
+		/internalName (ai_plugin_setGradient)
+		/localizedName [ 12
+			536574204772616469656e74
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 14
+		/parameter-1 {
+			/key 1752065132
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+		/parameter-2 {
+			/key 1954115685
+			/showInPalette -1
+			/type (enumerated)
+			/name [ 6
+				4c696e656172
+			]
+			/value 0
+		}
+		/parameter-3 {
+			/key 1634625388
+			/showInPalette -1
+			/type (unit real)
+			/value -45.0
+			/unit 591490663
+		}
+		/parameter-4 {
+			/key 1937010544
+			/showInPalette -1
+			/type (integer)
+			/value 2
+		}
+		/parameter-5 {
+			/key 1835282480
+			/showInPalette -1
+			/type (real)
+			/value 50.0
+		}
+		/parameter-6 {
+			/key 1919954992
+			/showInPalette -1
+			/type (real)
+			/value 0.0
+		}
+		/parameter-7 {
+			/key 1868771376
+			/showInPalette -1
+			/type (real)
+			/value 0.200000003
+		}
+		/parameter-8 {
+			/key 1953509424
+			/showInPalette -1
+			/type (enumerated)
+			/name [ 10
+				4772617920636f6c6f72
+			]
+			/value 0
+		}
+		/parameter-9 {
+			/key 1735995440
+			/showInPalette -1
+			/type (real)
+			/value 0.0
+		}
+		/parameter-10 {
+			/key 1835282481
+			/showInPalette -1
+			/type (real)
+			/value 50.0
+		}
+		/parameter-11 {
+			/key 1919954993
+			/showInPalette -1
+			/type (real)
+			/value 100.0
+		}
+		/parameter-12 {
+			/key 1868771377
+			/showInPalette -1
+			/type (real)
+			/value 0.0500000007
+		}
+		/parameter-13 {
+			/key 1953509425
+			/showInPalette -1
+			/type (enumerated)
+			/name [ 10
+				4772617920636f6c6f72
+			]
+			/value 0
+		}
+		/parameter-14 {
+			/key 1735995441
+			/showInPalette -1
+			/type (real)
+			/value 0.0
+		}
+	}
+	/event-2 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_swatches)
 		/localizedName [ 8
@@ -221,7 +191,16 @@
 			]
 		}
 	}
-	/event-2 {
+}
+/action-3 {
+	/name [ 17
+		4672657368204c6f6e6720536861646f77
+	]
+	/keyIndex 0
+	/colorIndex 0
+	/isOpen 1
+	/eventCount 2
+	/event-1 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_setGradient)
 		/localizedName [ 12
@@ -296,16 +275,7 @@
 			/value 0.0500000007
 		}
 	}
-}
-/action-3 {
-	/name [ 17
-		4672657368204c6f6e6720536861646f77
-	]
-	/keyIndex 0
-	/colorIndex 0
-	/isOpen 0
-	/eventCount 2
-	/event-1 {
+	/event-2 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_swatches)
 		/localizedName [ 8
@@ -324,7 +294,16 @@
 			]
 		}
 	}
-	/event-2 {
+}
+/action-4 {
+	/name [ 16
+		5761726d204c6f6e6720536861646f77
+	]
+	/keyIndex 0
+	/colorIndex 0
+	/isOpen 1
+	/eventCount 2
+	/event-1 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_setGradient)
 		/localizedName [ 12
@@ -399,16 +378,7 @@
 			/value 0.0500000007
 		}
 	}
-}
-/action-4 {
-	/name [ 16
-		5761726d204c6f6e6720536861646f77
-	]
-	/keyIndex 0
-	/colorIndex 0
-	/isOpen 0
-	/eventCount 2
-	/event-1 {
+	/event-2 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_swatches)
 		/localizedName [ 8
@@ -427,7 +397,16 @@
 			]
 		}
 	}
-	/event-2 {
+}
+/action-5 {
+	/name [ 15
+		486f74204c6f6e6720536861646f77
+	]
+	/keyIndex 0
+	/colorIndex 0
+	/isOpen 1
+	/eventCount 2
+	/event-1 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_setGradient)
 		/localizedName [ 12
@@ -502,16 +481,7 @@
 			/value 0.0500000007
 		}
 	}
-}
-/action-5 {
-	/name [ 15
-		486f74204c6f6e6720536861646f77
-	]
-	/keyIndex 0
-	/colorIndex 0
-	/isOpen 0
-	/eventCount 2
-	/event-1 {
+	/event-2 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_swatches)
 		/localizedName [ 8
@@ -530,7 +500,16 @@
 			]
 		}
 	}
-	/event-2 {
+}
+/action-6 {
+	/name [ 19
+		4e65757472616c204c6f6e6720536861646f77
+	]
+	/keyIndex 0
+	/colorIndex 0
+	/isOpen 0
+	/eventCount 2
+	/event-1 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_setGradient)
 		/localizedName [ 12
@@ -605,16 +584,7 @@
 			/value 0.0500000007
 		}
 	}
-}
-/action-6 {
-	/name [ 19
-		4e65757472616c204c6f6e6720536861646f77
-	]
-	/keyIndex 0
-	/colorIndex 0
-	/isOpen 0
-	/eventCount 2
-	/event-1 {
+	/event-2 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_swatches)
 		/localizedName [ 8
@@ -631,81 +601,6 @@
 			/value [ 19
 				4e65757472616c204c6f6e6720536861646f77
 			]
-		}
-	}
-	/event-2 {
-		/useRulersIn1stQuadrant 0
-		/internalName (ai_plugin_setGradient)
-		/localizedName [ 12
-			536574204772616469656e74
-		]
-		/isOpen 0
-		/isOn 1
-		/hasDialog 0
-		/parameterCount 10
-		/parameter-1 {
-			/key 1752065132
-			/showInPalette -1
-			/type (boolean)
-			/value 1
-		}
-		/parameter-2 {
-			/key 1954115685
-			/showInPalette -1
-			/type (enumerated)
-			/name [ 6
-				4c696e656172
-			]
-			/value 0
-		}
-		/parameter-3 {
-			/key 1634625388
-			/showInPalette -1
-			/type (unit real)
-			/value -45.0
-			/unit 591490663
-		}
-		/parameter-4 {
-			/key 1937010544
-			/showInPalette -1
-			/type (integer)
-			/value 2
-		}
-		/parameter-5 {
-			/key 1835282480
-			/showInPalette -1
-			/type (real)
-			/value 50.0
-		}
-		/parameter-6 {
-			/key 1919954992
-			/showInPalette -1
-			/type (real)
-			/value 0.0
-		}
-		/parameter-7 {
-			/key 1868771376
-			/showInPalette -1
-			/type (real)
-			/value 0.200000003
-		}
-		/parameter-8 {
-			/key 1835282481
-			/showInPalette -1
-			/type (real)
-			/value 50.0
-		}
-		/parameter-9 {
-			/key 1919954993
-			/showInPalette -1
-			/type (real)
-			/value 100.0
-		}
-		/parameter-10 {
-			/key 1868771377
-			/showInPalette -1
-			/type (real)
-			/value 0.0500000007
 		}
 	}
 }
