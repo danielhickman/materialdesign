@@ -1,3 +1,5 @@
+# New Document Profiles
+
 New Document Profiles are files that control the size, swatches, and some settings upon making a new document.
 
 These will add swatches, turn off pixel grid, and set the artboard to be 192x192 by default.
