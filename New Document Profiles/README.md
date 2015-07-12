@@ -11,7 +11,7 @@ Replacing `USER` with your user, `VERSION` with AI's version number (CC2014 = 18
 
 The directory for my computer looked like this:
 
-`C:\Users\Daniel\AppData\Roaming\Adobe\Adobe Illustrator 18 Settings\en_US\x64\New Document Profiles`
+`C:\Users\Daniel\AppData\Roaming\Adobe\Adobe Illustrator 19 Settings\en_US\x64\New Document Profiles`
 
 ***
 
