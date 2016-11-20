@@ -16,12 +16,17 @@ Func symbol()
    FileClose($hFileOpen)
    For $i = 1 To $a[0]
 	  Send("{F2}")
-	  sleep(1000)
+	  WinWait("Symbol Options", "", 0)
 	  ClipPut($a[$i])
-	  Send("^v")
+	  sleep(100)
+	  While 1
+		 Send("^v")
+		 If WinWait("", $a[$i], 1) > 0 Then ExitLoop
+		 sleep(10)
+	  WEnd
 	  sleep(1000)
 	  Send("{ENTER}")
-	  sleep(1000)
+	  sleep(2000)
    Next
    MsgBox($MB_SYSTEMMODAL, "Symbol Creation", "Finished!")
 EndFunc
