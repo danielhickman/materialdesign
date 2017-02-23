@@ -1,5 +1,5 @@
-# Material Design Shade and Tint
-Action Sets for Shade and Tints in Adobe Illustrator
+# Material Design Actions
+Action Sets for Shade & Tints (Edges) and finishs in Adobe Illustrator
 
 ## Installation:
 - `Window` Menu > `Actions`
@@ -13,7 +13,7 @@ Action Sets for Shade and Tints in Adobe Illustrator
 - Then locate the two downloaded files.
 - Make sure you have the Material Design swatches imported into your project.
 
-## Instructions:
+## Edges Instructions:
 - Turn off `Align New Objects to Pixel Grid`
 - Expand any objects with a curved corner effect or appearence. (Doesn't include paths or rounded rectangles)
 - Make any groups a Compound Path
