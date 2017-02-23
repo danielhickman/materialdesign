@@ -21,3 +21,6 @@ Action Sets for Shade & Tints (Edges) and finishs in Adobe Illustrator
 - Select Object to tint or shade
 - Run the apporiate action for either tinting or shading, [For Shading:] for the color of the object (or object below for when shading below glyphs that don't touch the outside of the icon)
 - [For Shading:] Press `Stop` to make the tint not fall below the glyph or `Continue` to allow it to do so. (Press `Continue` when shading below glyphs that don't touch the outside of the icon)
+
+## Finish Instructions:
+- Requires the Finish.ai file installed ([`MaterialDesign/Graphic Styles`](https://github.com/danielhickman/MaterialDesign/tree/master/Graphic%20Styles)) or the icon to have been created with the New Document Profile ([`MaterialDesign/Graphic Styles`](https://github.com/danielhickman/MaterialDesign/tree/master/New%20Document%20Profiles))
