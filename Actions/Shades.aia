@@ -11,7 +11,7 @@
 	/keyIndex 0
 	/colorIndex 0
 	/isOpen 0
-	/eventCount 13
+	/eventCount 14
 	/event-1 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_copy)
@@ -168,6 +168,17 @@
 	}
 	/event-9 {
 		/useRulersIn1stQuadrant 0
+		/internalName (adobe_makeCompound)
+		/localizedName [ 18
+			4d616b6520436f6d706f756e642050617468
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-10 {
+		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_appearance)
 		/localizedName [ 10
 			417070656172616e6365
@@ -186,7 +197,7 @@
 			/value 6
 		}
 	}
-	/event-10 {
+	/event-11 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_transparency)
 		/localizedName [ 12
@@ -204,7 +215,7 @@
 			/unit 592474723
 		}
 	}
-	/event-11 {
+	/event-12 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_setColor)
 		/localizedName [ 9
@@ -256,7 +267,7 @@
 			/value 126.0
 		}
 	}
-	/event-12 {
+	/event-13 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_stop)
 		/localizedName [ 4
@@ -287,7 +298,7 @@
 			/value 1
 		}
 	}
-	/event-13 {
+	/event-14 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_move)
 		/localizedName [ 4
@@ -327,7 +338,7 @@
 	/keyIndex 0
 	/colorIndex 0
 	/isOpen 0
-	/eventCount 13
+	/eventCount 14
 	/event-1 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_copy)
@@ -484,6 +495,17 @@
 	}
 	/event-9 {
 		/useRulersIn1stQuadrant 0
+		/internalName (adobe_makeCompound)
+		/localizedName [ 18
+			4d616b6520436f6d706f756e642050617468
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-10 {
+		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_appearance)
 		/localizedName [ 10
 			417070656172616e6365
@@ -502,7 +524,7 @@
 			/value 6
 		}
 	}
-	/event-10 {
+	/event-11 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_transparency)
 		/localizedName [ 12
@@ -520,7 +542,7 @@
 			/unit 592474723
 		}
 	}
-	/event-11 {
+	/event-12 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_setColor)
 		/localizedName [ 9
@@ -572,7 +594,7 @@
 			/value 56.0
 		}
 	}
-	/event-12 {
+	/event-13 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_stop)
 		/localizedName [ 4
@@ -603,7 +625,7 @@
 			/value 1
 		}
 	}
-	/event-13 {
+	/event-14 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_move)
 		/localizedName [ 4
@@ -643,7 +665,7 @@
 	/keyIndex 0
 	/colorIndex 0
 	/isOpen 0
-	/eventCount 13
+	/eventCount 14
 	/event-1 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_copy)
@@ -800,6 +822,17 @@
 	}
 	/event-9 {
 		/useRulersIn1stQuadrant 0
+		/internalName (adobe_makeCompound)
+		/localizedName [ 18
+			4d616b6520436f6d706f756e642050617468
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-10 {
+		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_appearance)
 		/localizedName [ 10
 			417070656172616e6365
@@ -818,7 +851,7 @@
 			/value 6
 		}
 	}
-	/event-10 {
+	/event-11 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_transparency)
 		/localizedName [ 12
@@ -836,7 +869,7 @@
 			/unit 592474723
 		}
 	}
-	/event-11 {
+	/event-12 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_setColor)
 		/localizedName [ 9
@@ -888,7 +921,7 @@
 			/value 12.0
 		}
 	}
-	/event-12 {
+	/event-13 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_stop)
 		/localizedName [ 4
@@ -919,7 +952,7 @@
 			/value 1
 		}
 	}
-	/event-13 {
+	/event-14 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_move)
 		/localizedName [ 4
@@ -959,7 +992,7 @@
 	/keyIndex 0
 	/colorIndex 0
 	/isOpen 0
-	/eventCount 13
+	/eventCount 14
 	/event-1 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_copy)
@@ -1116,6 +1149,17 @@
 	}
 	/event-9 {
 		/useRulersIn1stQuadrant 0
+		/internalName (adobe_makeCompound)
+		/localizedName [ 18
+			4d616b6520436f6d706f756e642050617468
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-10 {
+		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_appearance)
 		/localizedName [ 10
 			417070656172616e6365
@@ -1134,7 +1178,7 @@
 			/value 6
 		}
 	}
-	/event-10 {
+	/event-11 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_transparency)
 		/localizedName [ 12
@@ -1152,7 +1196,7 @@
 			/unit 592474723
 		}
 	}
-	/event-11 {
+	/event-12 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_setColor)
 		/localizedName [ 9
@@ -1204,7 +1248,7 @@
 			/value 35.0
 		}
 	}
-	/event-12 {
+	/event-13 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_stop)
 		/localizedName [ 4
@@ -1235,7 +1279,7 @@
 			/value 1
 		}
 	}
-	/event-13 {
+	/event-14 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_move)
 		/localizedName [ 4
@@ -1275,7 +1319,7 @@
 	/keyIndex 0
 	/colorIndex 0
 	/isOpen 0
-	/eventCount 13
+	/eventCount 14
 	/event-1 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_copy)
@@ -1432,6 +1476,17 @@
 	}
 	/event-9 {
 		/useRulersIn1stQuadrant 0
+		/internalName (adobe_makeCompound)
+		/localizedName [ 18
+			4d616b6520436f6d706f756e642050617468
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-10 {
+		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_appearance)
 		/localizedName [ 10
 			417070656172616e6365
@@ -1450,7 +1505,7 @@
 			/value 6
 		}
 	}
-	/event-10 {
+	/event-11 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_transparency)
 		/localizedName [ 12
@@ -1468,7 +1523,7 @@
 			/unit 592474723
 		}
 	}
-	/event-11 {
+	/event-12 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_setColor)
 		/localizedName [ 9
@@ -1520,7 +1575,7 @@
 			/value 32.0
 		}
 	}
-	/event-12 {
+	/event-13 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_stop)
 		/localizedName [ 4
@@ -1551,7 +1606,7 @@
 			/value 1
 		}
 	}
-	/event-13 {
+	/event-14 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_move)
 		/localizedName [ 4
@@ -1591,7 +1646,7 @@
 	/keyIndex 0
 	/colorIndex 0
 	/isOpen 0
-	/eventCount 13
+	/eventCount 14
 	/event-1 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_copy)
@@ -1748,6 +1803,17 @@
 	}
 	/event-9 {
 		/useRulersIn1stQuadrant 0
+		/internalName (adobe_makeCompound)
+		/localizedName [ 18
+			4d616b6520436f6d706f756e642050617468
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-10 {
+		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_appearance)
 		/localizedName [ 10
 			417070656172616e6365
@@ -1766,7 +1832,7 @@
 			/value 6
 		}
 	}
-	/event-10 {
+	/event-11 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_transparency)
 		/localizedName [ 12
@@ -1784,7 +1850,7 @@
 			/unit 592474723
 		}
 	}
-	/event-11 {
+	/event-12 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_setColor)
 		/localizedName [ 9
@@ -1836,7 +1902,7 @@
 			/value 32.0
 		}
 	}
-	/event-12 {
+	/event-13 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_stop)
 		/localizedName [ 4
@@ -1867,7 +1933,7 @@
 			/value 1
 		}
 	}
-	/event-13 {
+	/event-14 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_move)
 		/localizedName [ 4
