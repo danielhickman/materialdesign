@@ -5,6 +5,7 @@ New Document Profiles are files that control the size, swatches, and graphic sty
 ## Features:
 * Adds the Material Design Color Palette
 * Adds Graphic Styles for shadows (see [`MaterialDesign/Graphic Styles`](https://github.com/danielhickman/MaterialDesign/tree/master/Graphic%20Styles))
+* Pixel Perfect Typeface is added to symbols
 * Sets the artboard to 192x192 pixels
 * Turn off `Align New Objects to Pixel Grid` by default
 
