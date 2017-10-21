@@ -2,11 +2,11 @@
 Resources for Google's Material Design mainly for Adobe Illustrator.
 
 ## Sections
-- [Material Design Actions](./tree/master/Actions) - Action sets for shades & tints (edges) and finishes in Adobe Illustrator
-- [Graphic Styles](./tree/master/Graphic%20Styles) - Files that allow you to quickly switch between appearances in Adobe Illustrator
-- [Icon Object Examples](./tree/master/Icon%20Object%20Examples) - Images that show icon design patterns that I reference in Adobe Illustrator
-- [New Document Profiles](./tree/master/New%20Document%20Profiles) - Files that control the size, swatches, and graphic styles, and some settings upon making a new document in Adobe Illustrator
-- [Symbols](./tree/master/Symbols) - System icon and typography sets for in Adobe Illustrator
+- [Material Design Actions](./Actions) - Action sets for shades & tints (edges) and finishes in Adobe Illustrator
+- [Graphic Styles](./Graphic%20Styles) - Files that allow you to quickly switch between appearances in Adobe Illustrator
+- [Icon Object Examples](./Icon%20Object%20Examples) - Images that show icon design patterns that I reference in Adobe Illustrator
+- [New Document Profiles](./New%20Document%20Profiles) - Files that control the size, swatches, and graphic styles, and some settings upon making a new document in Adobe Illustrator
+- [Symbols](./Symbols) - System icon and typography sets for in Adobe Illustrator
 
 ## Installation and Instructions
 Each folder has it's own README.md that should guide you.
