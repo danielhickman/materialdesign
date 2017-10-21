@@ -1,5 +1,5 @@
 # Material Design Actions
-Action Sets for Shade & Tints (Edges) and finishs in Adobe Illustrator
+Action sets for shades & tints (edges) and finishes in Adobe Illustrator
 
 ## Installation:
 - `Window` Menu > `Actions`
@@ -15,7 +15,7 @@ Action Sets for Shade & Tints (Edges) and finishs in Adobe Illustrator
 
 ## Edges Instructions:
 - Turn off `Align New Objects to Pixel Grid`
-- Expand any objects with a curved corner effect or appearence. (Doesn't include paths or rounded rectangles)
+- Expand any objects with a curved corner effect or appearance. (Doesn't include paths or rounded rectangles)
 - Make any groups a Compound Path
 - Create Outlines of Text
 - Select Object to tint or shade
