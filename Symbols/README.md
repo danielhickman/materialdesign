@@ -49,3 +49,8 @@ Are the libraries not updated and you need more icons? The readmes in each libra
 #### Legacy References:
 * The AutoIt script used to work in conjunction with the Illustrator action to automate the creation of symbols before I figured out the SVG symbol tag
 * The executable file is a build of the AutoIt script for ease of use
+
+---
+
+## For Inkscape:
+Take a look at [Xaviju/inkscape-open-symbols](https://github.com/Xaviju/inkscape-open-symbols).
